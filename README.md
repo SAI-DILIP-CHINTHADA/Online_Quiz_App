@@ -9,8 +9,8 @@ Open Trivia Database API
 Development
 To get a local copy of the code, clone it using git:
 
-git clone https://github.com/SafdarJamal/quiz-app](https://github.com/SAI-DILIP-CHINTHADA/Online_Quiz_App.git
-cd quiz-app
+git clone https://github.com/SAI-DILIP-CHINTHADA/Online_Quiz_App.git
+cd Online_Quiz_App
 Install dependencies:
 
 npm install
